@@ -116,10 +116,16 @@ def render_body(md_text, slug):
 
 def head(title, desc, path, extra=""):
     url = f"{SITE_URL}/{path}" if path else f"{SITE_URL}/"
+    tag = CONFIG.get("google_tag", "")
+    gtag = (f'<script async src="https://www.googletagmanager.com/gtm.js?id={tag}"></script>\n'
+            "<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());</script>\n") if tag else ""
+    verify = CONFIG.get("google_site_verification", "")
+    if verify and not path:
+        gtag += f'<meta name="google-site-verification" content="{verify}" />\n'
     return f"""<!DOCTYPE html>
 <html lang="ms">
 <head>
-<meta charset="utf-8">
+{gtag}<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
