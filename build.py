@@ -285,7 +285,7 @@ def build_article(a, arts):
       <h1>{esc(a['title'])}</h1>
       <p class="standfirst">{esc(a['desc'])}</p>
       <div class="byline">
-        <span class="avatar" aria-hidden="true">ZR</span>
+        <img class="avatar avatar-photo" src="../img/zulkarnain.jpg" alt="" width="44" height="44">
         <div><a href="../tentang.html" class="byline-name">{AUTHOR}</a>
         <span class="byline-meta"><time datetime="{a['date']}">{tarikh(a['date'])}</time>, {a['minutes']} minit bacaan</span></div>
       </div>
@@ -372,7 +372,7 @@ def build_index(arts):
   </section>
 
   <section class="wrap" aria-labelledby="au-h"><div class="author">
-    <span class="avatar avatar-lg" aria-hidden="true">ZR</span>
+    <img class="avatar avatar-lg avatar-photo" src="img/zulkarnain.jpg" alt="Gambar {AUTHOR}" width="76" height="76">
     <div>
       <h2 id="au-h">Tentang penulis</h2>
       <p>{AUTHOR} ialah seorang bapa yang bekerja dalam bidang pendidikan kanak-kanak. Dia menulis Parenting Realiti untuk ibu bapa yang sibuk tetapi mahu faham isu semasa dengan cepat, dan tahu apa yang perlu dibuat seterusnya.</p>
@@ -396,7 +396,7 @@ def build_about(arts):
     page += f"""<body class="page-about">
 {header('', 'tentang')}
 <main id="utama" class="wrap-narrow about">
-  <span class="avatar avatar-lg" aria-hidden="true">ZR</span>
+  <img class="avatar avatar-xl avatar-photo" src="img/zulkarnain.jpg" alt="Gambar {AUTHOR}" width="140" height="140">
   <h1>Tentang {AUTHOR}</h1>
   <p class="standfirst">Bapa, pendidik, dan penulis Parenting Realiti.</p>
   <div class="article-body">
@@ -435,6 +435,7 @@ def main():
         shutil.rmtree(OUT)
     (OUT / "artikel").mkdir(parents=True)
     shutil.copy(ROOT / "style.css", OUT / "style.css")
+    shutil.copytree(ROOT / "img", OUT / "img")
     text = SRC.read_text(encoding="utf-8")
     n = len(re.findall(r"^## Artikel \d+: ", text, flags=re.M))
     if n != len(META):
