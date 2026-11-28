@@ -4,6 +4,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # Semak artikel berjadual setiap 10 minit (waktu UTC)
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: read

@@ -8,6 +8,7 @@ import json
 import math
 import re
 import shutil
+from datetime import datetime, timezone
 from pathlib import Path
 
 import markdown
@@ -439,6 +440,12 @@ def main():
     if n != len(META):
         raise SystemExit(f"Ralat: {n} artikel dalam artikel.md tetapi {len(META)} dalam artikel.json")
     arts = parse_articles(text)
+    # Artikel berjadual: hanya terbit selepas waktu publish_at (contoh "2026-11-29T12:30:00+08:00")
+    now = datetime.now(timezone.utc)
+    menunggu = [a for a in arts if a.get("publish_at") and datetime.fromisoformat(a["publish_at"]) > now]
+    arts = [a for a in arts if a not in menunggu]
+    for a in menunggu:
+        print(f"Berjadual (belum terbit): {a['slug']} pada {a['publish_at']}")
     for a in arts:
         build_article(a, arts)
     build_index(arts)

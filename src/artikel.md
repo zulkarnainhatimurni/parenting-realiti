@@ -744,3 +744,87 @@ Satu tip yang saya amalkan: berbincang dengan pasangan siapa yang "bertugas" mem
 Balik kampung ialah antara kenangan cuti yang paling diingati anak-anak. Sedikit persediaan sebelum bertolak membolehkan kita lebih tenang dan anak-anak lebih selamat. Kongsikan senarai semak ini dengan keluarga yang akan memandu jauh cuti sekolah nanti.
 
 Sumber: [Kalendar Akademik KPM 2026](https://jiaozong.org.my/v3/images/stories/new/2025/dec/SS-KPM-Bil.-3-2025-Kalendar-Akademik-2026-1.pdf), [RTM](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/), [NST](https://www.nst.com.my/amp/news/nation/2026/10/1562066/northeast-monsoon-begin-oct-27-bringing-3-5-episodes-heavy-rain), [The Star](https://www.thestar.com.my/news/nation/2026/11/13/northeast-monsoon-nadma-activates-disaster-operations-centres-as-heavy-rain-expected-until-march), [Bernama](https://www.bernama.com/en/news.php?id=2629050), [RTM](https://berita.rtm.gov.my/?p=204181)
+
+## Artikel 11: Ayam Gepuk Punca Keracunan di Kantin Sekolah: Tanda Keracunan Makanan pada Anak dan Apa Ibu Bapa Perlu Buat
+
+**Meta description:** 11 pelajar SMK Jenjarom keracunan selepas makan ayam gepuk yang tidak dinyahbeku sempurna. Ini tanda keracunan makanan pada anak dan bila perlu ke klinik.
+
+**Keyword sekunder:** tanda keracunan makanan kanak-kanak, ayam tidak dinyahbeku, kantin sekolah keracunan, cara nyahbeku ayam yang betul
+
+Ayam gepuk antara menu kegemaran budak-budak sekarang. Pedas, rangup, murah. Jadi bila keluar berita 11 pelajar keracunan makanan selepas makan ayam gepuk di kantin sekolah, ramai ibu bapa terus terfikir: anak aku pun selalu beli benda yang sama.
+
+Artikel ini bukan untuk menakutkan ibu bapa atau menyalahkan semua pengusaha kantin. Ia untuk bantu kita kenal tanda keracunan makanan pada anak, tahu bila perlu ke klinik, dan ajar anak sedikit kemahiran memilih makanan di sekolah.
+
+### Apa yang berlaku di SMK Jenjarom
+
+Menurut [Berita Harian](https://www.bharian.com.my/berita/nasional/2026/11/1733086/menu-ayam-gepuk-punca-pelajar-keracunan-makanan), siasatan awal mendapati ayam gepuk yang disediakan pengendali kantin SMK Jenjarom, Kuala Langat tidak dinyahbeku dengan sempurna. Menteri Besar Selangor, Datuk Seri Amirudin Shari berkata tindakan pantas Penolong Kanan Hal Ehwal Murid membolehkan 11 pelajar mendapat rawatan segera di Klinik Kesihatan Jenjarom.
+
+Kantin sekolah itu ditutup sementara untuk siasatan Jabatan Kesihatan Negeri Selangor (JKNS), seperti dilaporkan [Bernama](https://www.bernama.com/bm/am/news.php?id=2640461). Kerajaan negeri juga akan menjalankan pemeriksaan rawak ke atas kantin sekolah di seluruh Selangor.
+
+Kementerian Kesihatan turut menyiasat melalui Bahagian Keselamatan dan Kualiti Makanan. Menurut [FMT](https://freemalaysiatoday.com/category/nation/2026/11/28/health-ministry-probes-food-poisoning-at-kuala-langat-school), Menteri Kesihatan juga menasihati calon SPM supaya menjaga kesihatan sepanjang tempoh peperiksaan.
+
+### Kenapa ayam yang tidak dinyahbeku sempurna berisiko
+
+Ayam beku yang masih keras di bahagian dalam akan masak di luar dahulu. Kulitnya nampak garing dan perang, tetapi bahagian tengah, terutama dekat tulang, mungkin belum cukup panas untuk membunuh bakteria.
+
+Bila dimakan, bakteria itu boleh menyebabkan sakit perut, muntah dan cirit-birit dalam masa beberapa jam. Kanak-kanak lebih cepat terkesan kerana badan mereka kecil dan mudah kehilangan air.
+
+### Tanda keracunan makanan pada anak
+
+Perhatikan tanda ini, terutama jika anak makan di luar rumah pada hari yang sama:
+
+- Sakit perut atau senak
+- Loya dan muntah
+- Cirit-birit
+- Demam
+- Lesu dan tidak mahu makan
+
+### Bila perlu terus ke klinik
+
+Kebanyakan kes ringan beransur pulih, tetapi bawa anak berjumpa doktor dengan segera jika:
+
+1. Anak muntah berulang kali dan tidak dapat minum.
+2. Anak kurang kencing, mulut kering, atau menangis tanpa air mata.
+3. Ada darah dalam najis.
+4. Demam tinggi atau anak kelihatan sangat lemah dan mengantuk.
+5. Anak berumur bawah lima tahun dan muntah atau cirit-birit tidak berhenti.
+
+Jika ramai rakan sekelas mengalami gejala yang sama, maklumkan kepada guru supaya pihak sekolah dan pejabat kesihatan boleh bertindak cepat.
+
+### Penjagaan awal di rumah
+
+- Beri minum sedikit-sedikit tetapi kerap. Air garam galian (ORS) dari farmasi membantu menggantikan air dan garam yang hilang.
+- Jangan beri ubat henti cirit-birit kepada kanak-kanak tanpa nasihat doktor.
+- Biarkan anak berehat dan beri makanan ringan seperti bubur apabila dia sudah boleh makan.
+- Basuh tangan selepas menguruskan muntah atau lampin anak supaya ahli keluarga lain tidak dijangkiti.
+
+### Ajar anak memilih makanan di kantin
+
+Anak kita yang membeli makanan sendiri di kantin. Jadi mereka perlu tahu beberapa perkara asas:
+
+- **Jika ayam nampak merah jambu atau berdarah di bahagian dalam, jangan makan.** Beritahu guru atau pengendali kantin.
+- **Jika makanan berbau pelik atau rasa masam, berhenti makan.**
+- **Basuh tangan sebelum makan,** bukan sekadar lap pada baju.
+- **Beritahu ibu bapa** jika rasa sakit perut selepas makan di sekolah, walaupun sedikit.
+
+Bagi anak yang sedang menduduki SPM, pertimbangkan untuk membawa bekal dari rumah sepanjang minggu peperiksaan. Sakit perut sehari sebelum kertas penting boleh menjejaskan persediaan mereka.
+
+### Pelajaran untuk dapur kita juga
+
+Isu nyahbeku bukan masalah kantin sahaja. Ramai antara kita pun pernah keluarkan ayam dari peti sejuk beku lewat petang, kemudian terus masak kerana terkejar waktu.
+
+Cara lebih selamat: pindahkan ayam ke bahagian bawah peti sejuk pada malam sebelumnya. Jika terdesak, rendam dalam bekas bertutup dengan air paip sejuk dan tukar air setiap 30 minit. Pastikan ayam masak sepenuhnya hingga jus dagingnya jernih, terutama di bahagian dekat tulang.
+
+### Soalan lazim
+
+**Berapa lama selepas makan tanda keracunan makanan muncul?** Biasanya dalam beberapa jam hingga sehari, bergantung kepada jenis kuman.
+
+**Perlukah saya berhenti benarkan anak makan di kantin?** Tidak semestinya. Kebanyakan kantin mematuhi peraturan kebersihan. Ajar anak tanda makanan tidak selamat dan berbincang dengan PIBG jika ada kebimbangan tentang kantin sekolah anak.
+
+**Ke mana boleh adu kantin yang kotor?** Maklumkan kepada pihak sekolah dan Pejabat Kesihatan Daerah di kawasan anda.
+
+### Penutup
+
+Insiden di SMK Jenjarom berakhir baik kerana guru bertindak pantas dan pelajar dirawat segera. Itu juga pengajaran untuk kita di rumah: kenal tandanya, jangan tunggu terlalu lama, dan ajar anak bersuara bila makanan nampak tak betul. Kongsikan artikel ini dengan ibu bapa lain yang anaknya makan di kantin setiap hari.
+
+Sumber: [Berita Harian](https://www.bharian.com.my/berita/nasional/2026/11/1733086/menu-ayam-gepuk-punca-pelajar-keracunan-makanan), [Bernama](https://www.bernama.com/bm/am/news.php?id=2640461), [FMT](https://freemalaysiatoday.com/category/nation/2026/11/28/health-ministry-probes-food-poisoning-at-kuala-langat-school), [Media Selangor](https://mediaselangor.com/en/2026/11/409603)
