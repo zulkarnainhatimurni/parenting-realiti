@@ -594,3 +594,153 @@ Kanak-kanak suka membantu di dapur dan menyentuh pelbagai benda. Biasakan mereka
 Isu ini bukan sebab untuk berhenti membeli di pasar. Pasar tetap tempat terbaik untuk mendapatkan barang segar. Kita yang memasak untuk anak-anak cuma perlu lebih berhati-hati. Kongsikan tips ini dengan keluarga anda.
 
 Sumber: [Berita Harian](https://www.bharian.com.my/berita/nasional/2026/11/1731888/kkm-siasat-isu-tikus-makan-tauge-di-pasar-pudu), [Buletin TV3](https://www.buletintv3.my/nasional/kkm-perkukuh-penguatkuasaan-susulan-isu-tikus-di-pasar-pudu/), [Utusan Malaysia](https://www.utusan.com.my/nasional/2022/12/kkm-tutup-kompaun-kedai-makan-tular-tikus-jamah-ayam-goreng/)
+
+## Artikel 9: Tambang Van Sekolah Bulan Disember: Bayar Penuh, Separuh atau Tak Payah? Ini Cara Bincang dengan Pemandu
+
+**Meta description:** Disember 2026 sekolah cuma 3 hingga 4 hari. Ini cara ibu bapa semak perjanjian dan bincang tambang van sekolah dengan pemandu secara adil.
+
+**Keyword sekunder:** bayar van sekolah bulan cuti, tambang bas sekolah Disember, perjanjian van sekolah, cuti akhir persekolahan 2026
+
+Setiap hujung tahun soalan yang sama muncul dalam group WhatsApp ibu bapa: tambang van sekolah bulan Disember kena bayar penuh ke? Tahun ini soalan itu lebih kuat, sebab anak-anak hanya ke sekolah beberapa hari sahaja pada bulan Disember 2026.
+
+Bila saya tanya di Threads, jawapan ibu bapa berbeza-beza. Ada yang bayar penuh tanpa soal. Ada yang bayar separuh. Ada juga yang terus tak bayar. Artikel ini tidak memihak kepada sesiapa. Ia cuba membantu kita bincang dengan pemandu secara adil, supaya hubungan baik kekal sampai tahun depan.
+
+### Berapa hari sebenarnya anak ke sekolah bulan Disember
+
+Berdasarkan [Kalendar Akademik KPM 2026](https://jiaozong.org.my/v3/images/stories/new/2025/dec/SS-KPM-Bil.-3-2025-Kalendar-Akademik-2026-1.pdf):
+
+- **Kumpulan A (Kedah, Kelantan, Terengganu):** sekolah 1 hingga 3 Disember (3 hari), cuti akhir tahun 4 hingga 31 Disember.
+- **Kumpulan B (negeri lain):** sekolah 1 hingga 4 Disember (4 hari), cuti akhir tahun 5 hingga 31 Disember.
+- **Sesi 2027:** bermula 4 Januari 2027 bagi kedua-dua kumpulan, menurut [RTM](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/).
+
+Maksudnya, untuk kebanyakan keluarga, van hanya digunakan kurang seminggu pada bulan Disember.
+
+### Kenapa pengusaha van minta bayaran penuh
+
+Sebelum kita marah, faham dulu dari sudut pemandu. Isu ini bukan baru. Dalam kenyataan yang dilaporkan [Kosmo](https://www.kosmo.com.my/?p=361180) sebelum ini, persatuan bas sekolah menjelaskan bahawa kos operasi seperti ansuran kenderaan, insurans dan gaji pemandu tetap berjalan walaupun sekolah cuti. Ada pengusaha yang memang meletakkan syarat bayaran penuh 12 bulan sejak awal tahun.
+
+Untuk ramai pemandu van, tambang inilah sumber pendapatan utama keluarga mereka. Menyedari perkara ini, kerajaan dalam Belanjawan 2027 mengumumkan bantuan khas RM1,000 secara sekali bayar kepada 15,000 pemandu bas sekolah. Menurut [Bernama](https://bernama.com/bm/news.php?id=2631264), wakil pengusaha menyambut baik bantuan itu kerana kutipan tambang memang terjejas ketika cuti sekolah.
+
+Pada masa yang sama, tambang van bukan harga yang dikawal kerajaan. Ia ditentukan atas persetujuan antara pengusaha dan ibu bapa, seperti yang pernah dijelaskan persatuan industri dalam laporan [Kosmo](https://www.kosmo.com.my/?p=546813). Jadi jawapan "kena bayar penuh atau tidak" bergantung kepada apa yang dipersetujui, bukan kepada satu peraturan umum.
+
+### Langkah 1: Semak apa yang dipersetujui awal tahun
+
+Sebelum mesej pemandu, cari semula:
+
+- Kad bayaran bulanan atau resit, kerana ada pengusaha yang tulis syarat di situ.
+- Mesej WhatsApp awal tahun ketika anda mula mendaftar.
+- Pengumuman dalam group van tentang bayaran bulan cuti.
+
+Jika syarat bayaran penuh memang sudah dinyatakan dan anda bersetuju, cara paling adil ialah menghormati perjanjian itu. Jika tiada langsung perbincangan, barulah ada ruang untuk berunding.
+
+### Langkah 2: Bincang awal, bukan pada hari bayaran
+
+Hantar mesej secara peribadi kepada pemandu, bukan dalam group. Contoh ayat yang sopan:
+
+> "Assalamualaikum kak, nak tanya untuk bulan Disember ni, anak sekolah 4 hari je. Bayaran macam mana ye? Saya ikut apa yang akak dah tetapkan, cuma nak tahu awal untuk rancang bajet."
+
+Ayat begini membuka ruang tanpa menuduh. Ramai pemandu lebih bertolak ansur apabila didekati dengan baik.
+
+### Langkah 3: Pilih pilihan yang adil untuk kedua-dua pihak
+
+Antara cara yang biasa dipersetujui ibu bapa dan pemandu:
+
+1. **Bayar penuh** jika itu syarat awal tahun, atau jika anda mahu kekalkan tempat anak untuk 2027.
+2. **Bayar separuh** sebagai tanda menghargai pemandu, jika pemandu bersetuju.
+3. **Bayar ikut hari** jika anda memang tidak akan sambung tahun depan dan pemandu bersetuju.
+
+Apa pun pilihan, pastikan ia dipersetujui kedua-dua pihak secara bertulis, walaupun sekadar mesej WhatsApp.
+
+### Langkah 4: Fikir tentang tempat anak untuk tahun 2027
+
+Satu perkara yang ramai ibu bapa terlepas pandang: van yang bagus selalunya penuh. Jika anda tidak bayar bulan Disember, ada kemungkinan pemandu memberi tempat anak anda kepada keluarga lain untuk sesi 2027.
+
+Tanya terus kepada pemandu sama ada bayaran bulan Disember memastikan tempat anak untuk Januari. Lebih baik jelas sekarang daripada kelam-kabut minggu pertama sekolah.
+
+### Ajar anak menghargai pemandu
+
+Bagi saya, isu ini juga peluang untuk mengajar anak. Pemandu van ialah orang yang menjaga keselamatan anak kita setiap pagi dan petang. Ajak anak tulis kad ucapan terima kasih atau beri sedikit buah tangan pada hari terakhir sekolah. Anak belajar bahawa orang yang membantu kita patut dihargai, bukan sekadar dibayar.
+
+### Soalan lazim
+
+**Adakah ada undang-undang yang mewajibkan bayaran tambang van semasa cuti?** Tambang ditentukan melalui persetujuan antara pengusaha dan ibu bapa. Rujuk syarat yang dipersetujui pada awal tahun.
+
+**Bagaimana jika pemandu tidak pernah maklumkan apa-apa syarat?** Bincang secara baik dan cari persetujuan bersama. Simpan rekod persetujuan dalam mesej bertulis.
+
+**Bila sekolah dibuka semula?** Sesi persekolahan 2027 bermula 4 Januari 2027.
+
+### Penutup
+
+Isu tambang van bulan Disember sebenarnya isu komunikasi. Jika syarat jelas sejak awal tahun, tak ada yang terasa tertipu. Mulai tahun depan, tanya terus kepada pemandu ketika mendaftar: "Bulan cuti bayar macam mana?" Satu soalan itu boleh mengelakkan salah faham setahun.
+
+Sumber: [Kalendar Akademik KPM 2026](https://jiaozong.org.my/v3/images/stories/new/2025/dec/SS-KPM-Bil.-3-2025-Kalendar-Akademik-2026-1.pdf), [RTM](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/), [Bernama](https://bernama.com/bm/news.php?id=2631264), [Kosmo](https://www.kosmo.com.my/?p=361180), [Kosmo](https://www.kosmo.com.my/?p=546813)
+
+## Artikel 10: Balik Kampung Cuti Sekolah Bersama Anak Kecil: Senarai Semak Perjalanan dan Keselamatan di Kampung
+
+**Meta description:** Cuti akhir sekolah bermula 4 dan 5 Disember 2026, ketika musim tengkujuh. Ini senarai semak balik kampung bersama anak kecil supaya selamat dan tenang.
+
+**Keyword sekunder:** tips balik kampung dengan anak kecil, perjalanan jauh dengan anak, cuti sekolah Disember 2026, keselamatan anak di kampung
+
+Cuti akhir persekolahan 2026 tinggal beberapa hari lagi. Ramai keluarga sudah merancang balik kampung, dan saya faham perasaannya. Anak-anak dapat jumpa datuk nenek, main di halaman luas, rehat sekejap daripada rutin sekolah.
+
+Tapi tahun ini cuti sekolah jatuh dalam musim tengkujuh. Perjalanan jauh dengan anak kecil, jalan sesak dan hujan lebat bukan gabungan yang boleh dibuat secara santai. Artikel ini senarai semak ringkas untuk sebelum bertolak, semasa dalam perjalanan dan bila sudah sampai di kampung.
+
+### Tarikh penting cuti akhir tahun
+
+- **Kumpulan A (Kedah, Kelantan, Terengganu):** cuti 4 hingga 31 Disember 2026.
+- **Kumpulan B (negeri lain):** cuti 5 hingga 31 Disember 2026.
+- **Sekolah dibuka semula:** 4 Januari 2027.
+
+Tarikh ini berdasarkan [Kalendar Akademik KPM 2026](https://jiaozong.org.my/v3/images/stories/new/2025/dec/SS-KPM-Bil.-3-2025-Kalendar-Akademik-2026-1.pdf) dan pengumuman sesi 2027 yang dilaporkan [RTM](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/).
+
+Jika ada anak yang menduduki SPM, ingat bahawa peperiksaan bertulis SPM 2026 berlangsung dari 23 November hingga 17 Disember, menurut [Bernama](https://www.bernama.com/en/news.php?id=2629050). Rancang tarikh balik kampung supaya tidak bertembung dengan jadual peperiksaannya.
+
+### Musim tengkujuh: semak cuaca sebelum bertolak
+
+Monsun Timur Laut 2026/2027 bermula 27 Oktober dan dijangka berterusan hingga Mac 2027. MetMalaysia meramalkan tiga hingga lima episod hujan lebat berterusan antara November 2026 dan Januari 2027, yang boleh menyebabkan banjir di kawasan rendah dan tepi sungai, seperti dilaporkan [NST](https://www.nst.com.my/amp/news/nation/2026/10/1562066/northeast-monsoon-begin-oct-27-bringing-3-5-episodes-heavy-rain). NADMA pula sudah mengaktifkan pusat kawalan operasi bencana secara berperingkat mulai 12 November, menurut [The Star](https://www.thestar.com.my/news/nation/2026/11/13/northeast-monsoon-nadma-activates-disaster-operations-centres-as-heavy-rain-expected-until-march).
+
+Untuk keluarga yang kampungnya di kawasan mudah banjir:
+
+1. Semak amaran cuaca MetMalaysia sehari sebelum dan pada pagi bertolak.
+2. Tanya keluarga di kampung tentang keadaan air dan jalan masuk.
+3. Bawa beg kecemasan ringkas untuk anak. Senarai lengkapnya ada dalam artikel [beg kecemasan banjir untuk bayi dan anak kecil](senarai-beg-kecemasan-banjir-bayi-anak-kecil.html).
+4. Jika amaran banjir sudah dikeluarkan di kawasan kampung, tangguhkan perjalanan. Kampung tidak akan ke mana.
+
+### Sebelum bertolak
+
+- **Kerusi keselamatan kanak-kanak.** Pastikan dipasang dengan betul dan sesuai dengan saiz anak sekarang, bukan saiz anak tahun lepas.
+- **Servis kereta.** Semak tayar, wiper dan lampu. Hujan lebat di lebuh raya memerlukan penglihatan yang jelas.
+- **Ubat anak.** Bawa ubat demam, ubat yang biasa diambil anak dan termometer. Klinik di kampung mungkin jauh atau tutup pada hujung minggu.
+- **Rancang waktu perjalanan.** Pada cuti akhir tahun lepas, [PLUS](https://berita.rtm.gov.my/?p=204181) menjangkakan sehingga 2.2 juta kenderaan sehari pada hari puncak. Semak jadual MyPLUS-TTA dalam aplikasi PLUS apabila dikeluarkan untuk cuti tahun ini.
+
+### Semasa dalam perjalanan
+
+- **Berhenti rehat setiap dua jam.** Anak kecil perlu bergerak, dan pemandu perlu berehat. Jangan tunggu anak meragam baru cari R&R.
+- **Jangan keluarkan bayi dari kerusi keselamatan semasa kereta bergerak,** walaupun bayi menangis. Berhenti di tempat selamat untuk menyusu atau memujuk.
+- **Bawa snek dan air yang cukup.** Kesesakan lalu lintas boleh memanjangkan perjalanan berjam-jam.
+- **Sediakan aktiviti tanpa skrin.** Buku cerita, permainan teka-teka atau lagu boleh membantu masa berlalu tanpa anak melekat pada telefon sepanjang jalan.
+
+### Bila sudah sampai di kampung
+
+Kampung memang seronok, tapi persekitarannya berbeza dengan rumah kita. Ada beberapa risiko yang selalu terlepas pandang:
+
+1. **Air.** Sungai, parit, kolam dan tali air sangat berbahaya, lebih-lebih lagi musim hujan apabila arus deras dan paras air naik. Pastikan sentiasa ada orang dewasa yang khusus memerhati anak-anak, bukan sekadar "semua orang ada di sini".
+2. **Ubat datuk nenek.** Ubat darah tinggi, kencing manis dan sebagainya sering diletakkan di atas meja. Minta izin untuk alihkan ke tempat tinggi atau dalam bekas bertutup.
+3. **Motosikal.** Tunggang motosikal tanpa topi keledar, walaupun sekejap ke kedai, tetap berisiko. Tetapkan peraturan yang sama seperti di bandar.
+4. **Haiwan.** Ajar anak jangan dekati anjing, lembu atau monyet yang tidak dikenali. Jika digigit atau dicakar, basuh luka dengan sabun dan air mengalir, kemudian terus jumpa doktor.
+
+Satu tip yang saya amalkan: berbincang dengan pasangan siapa yang "bertugas" memerhati anak pada setiap waktu. Bila ramai saudara-mara berkumpul, semua orang sangka orang lain sedang perhatikan anak.
+
+### Soalan lazim
+
+**Bila waktu terbaik untuk bertolak?** Elakkan hari pertama cuti dan hujung minggu jika boleh. Semak jadual MyPLUS-TTA untuk waktu yang disyorkan.
+
+**Patutkah saya batalkan balik kampung jika ada amaran banjir?** Jika amaran dikeluarkan untuk kawasan kampung atau laluan anda, lebih selamat untuk tangguhkan. Keselamatan keluarga lebih penting daripada tarikh.
+
+**Apa barang paling penting untuk anak kecil dalam perjalanan jauh?** Kerusi keselamatan yang betul, ubat asas, air, snek dan satu set pakaian ganti yang mudah dicapai.
+
+### Penutup
+
+Balik kampung ialah antara kenangan cuti yang paling diingati anak-anak. Sedikit persediaan sebelum bertolak membolehkan kita lebih tenang dan anak-anak lebih selamat. Kongsikan senarai semak ini dengan keluarga yang akan memandu jauh cuti sekolah nanti.
+
+Sumber: [Kalendar Akademik KPM 2026](https://jiaozong.org.my/v3/images/stories/new/2025/dec/SS-KPM-Bil.-3-2025-Kalendar-Akademik-2026-1.pdf), [RTM](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/kpm-umum-sesi-persekolahan-2027-bermula-4-januari/), [NST](https://www.nst.com.my/amp/news/nation/2026/10/1562066/northeast-monsoon-begin-oct-27-bringing-3-5-episodes-heavy-rain), [The Star](https://www.thestar.com.my/news/nation/2026/11/13/northeast-monsoon-nadma-activates-disaster-operations-centres-as-heavy-rain-expected-until-march), [Bernama](https://www.bernama.com/en/news.php?id=2629050), [RTM](https://berita.rtm.gov.my/?p=204181)
